@@ -4,17 +4,16 @@ I have over 5 years of experience working as a financial data analyst and risk m
 
 🧑‍💻 I have a passion for working with different technologies and platforms. My current favorites are:
 
-- ❤️ Excel / SQL / PostgreSQL / MySQL
-- ❤️ Python 
-- ❤️ Tableau / PowerBI, Metabase
-- ❤️ Docker / Airflow / Kafka
+- Excel / SQL / PostgreSQL / MySQL / Python 
+- Tableau / PowerBI, Metabase
+- Docker / Airflow / Kafka
 
 Reach me at ngocthuyle19@gmail.com 
 
-# Connect with me
+## Connect with me
 
 
-# Languages and Tools
+## Languages and Tools
 
 
 
