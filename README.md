@@ -7,6 +7,7 @@ I have over 5 years of experience working as a Financial Analyst and Risk Manage
 
 ## Connect with me
 Reach me at ngocthuyle19@gmail.com 
+
 Linkedin : https://www.linkedin.com/in/thuyle2410/
 
 ## Languages and Tools
