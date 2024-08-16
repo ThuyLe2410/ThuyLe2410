@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Thuy Le
 
-I have over 5 years of experience working as a Financial Data Analyst and Risk Management Analyst at a bank. I have self-taught expertise in **Big data analytics**, **Data engineering**, and **Machine learning**.
+I have over 5 years of experience working as a Financial Analyst and Risk Management Analyst at a bank. I have self-taught expertise in **Big data analytics**, **Data engineering**, and **Machine learning**.
 
 🧑‍💻 I have a passion for analyzing data and data storytelling, leveraging my skills to uncover insights and drive business decisions. I enjoy working with different technologies and platforms. My current favorites are:
 
