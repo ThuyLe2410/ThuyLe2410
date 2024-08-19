@@ -5,10 +5,6 @@ I have over 5 years of experience working as a Financial Analyst and Risk Manage
 🧑‍💻 I have a passion for analyzing data and data storytelling, leveraging my skills to uncover insights and drive business decisions. I enjoy working with different technologies and platforms.
 
 
-## Connect with me
-Reach me at ngocthuyle19@gmail.com 
-
-Linkedin : https://www.linkedin.com/in/thuyle2410/
 
 ## Languages and Tools
 
