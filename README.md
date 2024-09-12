@@ -8,7 +8,7 @@
 
 - Excel / SQL / PostgreSQL / MySQL / Python / R
 - Tableau / PowerBI / Metabase / Plotly / Seaborn
-- Scikit-learn / TensorFlow / Pytorch
+- Scikit-learn / TensorFlow / PyTorch
 - Docker / Airflow / Kafka / Hadoop / MapReduce / Spark
 
 
