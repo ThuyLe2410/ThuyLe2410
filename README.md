@@ -1,15 +1,14 @@
-# 👋 Hello, I'm Thuy Le
+# 👋 Hello, I'm Thuy Le, a self-taught Data Analyst / Data Engineer.
 
-I have over 5 years of experience working as a Financial Analyst and Risk Management Analyst at a bank. I have self-taught expertise in **Big data analytics**, **Data engineering**, and **Machine learning**.
-
-🧑‍💻 I have a passion for analyzing data and data storytelling, leveraging my skills to uncover insights and drive business decisions. I enjoy working with different technologies and platforms.
+🧑‍💻 With over 5 years of experience as a Financial and Risk Management Analyst, I have developed a deep passion for big data. Through dedicated self-learning, I’ve gained expertise in Big Data Analytics, Data Engineering, and Machine Learning.
 
 
 
 ## Languages and Tools
 
 - Excel / SQL / PostgreSQL / MySQL / Python / R
-- Tableau / PowerBI, Metabase
+- Tableau / PowerBI / Metabase / Plotly / Seaborn
+- Scikit-learn / TensorFlow / Pytorch
 - Docker / Airflow / Kafka / Hadoop / MapReduce / Spark
 
 
