@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Thuy Le, a self-taught Data Analyst / Data Engineer.
+# 👋 Hello, I'm Thuy Le, 
 
 🧑‍💻 With over 5 years of experience as a Financial and Risk Management Analyst, I have developed a deep passion for big data. Through dedicated self-learning, I’ve gained expertise in Big Data Analytics, Data Engineering, and Machine Learning.
 
